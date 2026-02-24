@@ -1,1 +1,1 @@
-
+The example workflow (LMD_workflow) includes the complete process for the automatic design of system logic models. Taking a simple requirement as input, it automatically completes the design, evaluation, and optimization of use case diagrams, activity diagrams, and class diagrams under the pre-built prompts and agent workflow. It can also output executable code and links for the views.
